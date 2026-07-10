@@ -1,0 +1,44 @@
+name: Package Mods
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Package and release each mod
+        run: |
+          set -e
+          for dir in */; do
+            mod_name="${dir%/}"
+            if [[ ! -d "$mod_name" || "$mod_name" == .* || "$mod_name" == "node_modules" || "$mod_name" == "venv" ]]; then
+              continue
+            fi
+            if [[ -z "$(find "$mod_name" -type f -print -quit)" ]]; then
+              echo "Skipping empty folder: $mod_name"
+              continue
+            fi
+            echo "Processing $mod_name"
+            (cd "$mod_name" && zip -r "../$mod_name.zip" .)
+            if gh release view "$mod_name" >/dev/null 2>&1; then
+              echo "Release $mod_name already exists, will update asset"
+            else
+              echo "Creating new release $mod_name"
+              gh release create "$mod_name" \
+                --title "$mod_name" \
+                --notes "$mod_name"
+            fi
+            gh release upload "$mod_name" "$mod_name.zip" --clobber
+            rm "$mod_name.zip"
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
