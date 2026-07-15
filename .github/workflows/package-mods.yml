@@ -28,14 +28,23 @@ jobs:
               continue
             fi
             echo "Processing $mod_name"
-            (cd "$mod_name" && zip -r "../$mod_name.zip" .)
+            (cd "$mod_name" && zip -r "../$mod_name.zip" . -x "README.md")
             if gh release view "$mod_name" >/dev/null 2>&1; then
               echo "Release $mod_name already exists, will update asset"
             else
               echo "Creating new release $mod_name"
+              notes=""
+              if [[ -f "$mod_name/README.md" ]]; then
+                notes=$(cat "$mod_name/README.md")
+              else
+                notes="$mod_name"
+              fi
               gh release create "$mod_name" \
                 --title "$mod_name" \
-                --notes "$mod_name"
+                --notes "$notes"
+            fi
+            if [[ -f "$mod_name/README.md" ]]; then
+              gh release edit "$mod_name" --notes-file "$mod_name/README.md"
             fi
             gh release upload "$mod_name" "$mod_name.zip" --clobber
             rm "$mod_name.zip"
