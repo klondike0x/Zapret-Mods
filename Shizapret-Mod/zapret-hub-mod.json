@@ -1,0 +1,11 @@
+{
+  "schema": "zapret-hub-mod-v1",
+  "id": "shizapret-mod-20260715082259",
+  "name": "Shizapret-Mod",
+  "description": "Обход большего колличества блокировок со стороны Роскомнадзора.",
+  "author": "peachoff, sch-izo, bol-van",
+  "version": "1.9.3",
+  "source_url": "https://github.com/peachoff/Zapret-Hub-Mods",
+  "source_type": "zapret_bundle",
+  "emoji": "🪄"
+}
