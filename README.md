@@ -9,7 +9,7 @@
 | Shizapret-Mod | Расширенный обход блокировок РКН [Подробнее](Shizapret-Mod/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Shizapret-Mod) |
 
 ## Zapret-Hub sources
-Установить `Zapret-Hub` вы можете на [официальном сайте](https://goshkow.ru/zapret-hub), или из github:
+Установить `Zapret-Hub` вы можете на [официальном сайте](https://goshkow.ru/zapret-hub), или из github:   
 <br>
 <br>
 <a href="https://github.com/goshkow/Zapret-Hub/releases/latest">
