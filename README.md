@@ -8,7 +8,7 @@
 | Minecraft Fix | Обход блокировок Minecraft-сервисов и серверов [Подробнее](Minecraft-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Minecraft-Fix) |
 | Shizapret-Mod | Расширенный обход блокировок РКН [Подробнее](Shizapret-Mod/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Shizapret-Mod) |
 
-## Zapret-Hub sources
+### Zapret-Hub sources
 Установить `Zapret-Hub` вы можете на [официальном сайте](https://goshkow.ru/zapret-hub), или из github:
 <br>
 <br>
