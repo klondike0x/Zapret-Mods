@@ -1,7 +1,7 @@
 <div align="center">
   
 # Zapret-Hub-Mods
-Полезные модификации для [Zapret Hub](https://github.com/goshkow/Zapret-Hub) от [goshkow](https://github.com/goshkow) совместимые со всеми системами.
+Полезные модификации для [Zapret Hub](https://github.com/goshkow/Zapret-Hub) от [goshkow](https://github.com/goshkow) совместимые со всеми системами. 
 
 | Название | Описание | Загрузить |
 |----------|----------|-----------|
