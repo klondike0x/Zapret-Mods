@@ -11,14 +11,13 @@
 ## Zapret-Hub sources
 Установить `Zapret-Hub` вы можете на [официальном сайте](https://goshkow.ru/zapret-hub), или из github:
 <br>
+<br>
 <a href="https://github.com/goshkow/Zapret-Hub/releases/latest">
   <img src="https://img.shields.io/badge/Скачать-Windows%20версию-blue?style=for-the-badge&logo=github" alt="Скачать последнюю версию">
 </a>
-<br>
 <a href="https://github.com/goshkow/Zapret-Hub-Mac/releases/latest">
   <img src="https://img.shields.io/badge/Скачать-MacOs%20версию-blue?style=for-the-badge&logo=github" alt="Скачать последнюю версию">
 </a>
-<br>
 <a href="https://github.com/peachoff/Zapret-Hub-Linux/releases/latest">
   <img src="https://img.shields.io/badge/Скачать-Linux%20Community%20Port-blue?style=for-the-badge&logo=github" alt="Скачать последнюю версию">
 </a>
