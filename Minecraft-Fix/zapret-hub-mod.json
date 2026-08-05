@@ -1,11 +1,6 @@
 {
-  "schema": "zapret-hub-mod-v1",
-  "id": "Minecraft-Fix",
-  "name": "Minecraft Fix",
-  "description": "Модификация, позволяющая обходить блокировки сервисов и игровых серверов связанных с Minecraft",
-  "author": "peachoff",
-  "version": "1.7",
-  "source_url": "https://github.com/peachoff/Zapret-Hub-Mods",
-  "source_type": "zapret_bundle",
-  "emoji": "🌍"
+  "name": "MINECRAFT FIX",
+  "slug": "minecraft_fix",
+  "version": "2.0.9",
+  "compatibility": "zapret"
 }
