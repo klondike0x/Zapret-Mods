@@ -1,0 +1,11 @@
+soundcloud.com
+a-v2.sndcdn.com
+style.sndcdn.com
+assets.web.soundcloud.cloud
+i1.sndcdn.com
+al.sndcdn.com
+va.sndcdn.com
+wave.sndcdn.com
+playback.media-streaming.soundcloud.cloud
+cf-hls-media.sndcdn.com
+license.media-streaming.soundcloud.cloud
