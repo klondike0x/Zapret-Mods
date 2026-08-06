@@ -23,7 +23,5 @@
 
 | Архив | Для чего |
 |-------|----------|
-| `Название.zip` | Для [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube). Без файла `zapret-hub-mod.json`. |
-| `Название_hub.zip` | Для [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation). С файлом `zapret-hub-mod.json`. |
-
-Файл `zapret-hub-mod.json` используется только в Zapret-Hub, поэтому в архив для Zapret-Discord-Youtube он не включается.   
+| `Название.zip` | Для [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube). |
+| `Название_hub.zip` | Для [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation). |
