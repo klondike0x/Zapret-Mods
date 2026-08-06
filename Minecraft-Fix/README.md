@@ -55,7 +55,3 @@ Minecraft-Fix/
 Для добавления своих доменов отредактируйте файлы:
 - `list-general-user.txt` — домены, к которым нужно обеспечить доступ
 - `list-exclude-user.txt` — домены, которые нужно исключить из обработки
-
-## Требования
-
-- [Zapret Hub](https://github.com/bol-van/zapret) от goshkow под [Windows](https://github.com/goshkow/Zapret-Hub), [Linux](https://github.com/peachoff/Zapret-Hub-Linux), [MacOs](https://github.com/goshkow/Zapret-Hub-Mac/).

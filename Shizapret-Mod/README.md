@@ -63,7 +63,3 @@ Shizapret-Mod/
 - [bol-van/zapret](https://github.com/bol-van/zapret) — ядро zapret и список заблокированных ресурсов (rulist)
 - [sch-izo/shizapret](https://github.com/sch-izo/shizapret) — форк с автообновлением и расширенным обходом блокировок
 - [peachoff/Zapret-Hub-Mods](https://github.com/peachoff) — сборка и пакетирование мода
-
-## Требования
-
-- [Zapret Hub](https://github.com/bol-van/zapret) от goshkow под [Windows](https://github.com/goshkow/Zapret-Hub), [Linux](https://github.com/peachoff/Zapret-Hub-Linux), [MacOs](https://github.com/goshkow/Zapret-Hub-Mac/).
