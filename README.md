@@ -3,6 +3,8 @@
 # Zapret-Mods
 Полезные модификации для [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation) и [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube) совместимые со всеми системами. 
 
+</div>
+
 ## Источники
 
 Загрузить модификации вы можете на [Zapret Marketplace](https://goshkow.com/zapret-hub/marketplace/profiles/peachoff) или через GitHub в таблице ниже:
@@ -15,10 +17,34 @@
 | Canva | Обход блокировки Canva и Affinity [Подробнее](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
 | SoundCloud Fix | Расширенный обход блокировок РКН [Подробнее](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
 
-## Zapret-Hub sources
-Установить `Zapret-Hub-Continuation` вы можете на [github](https://github.com/klondike0x/zapret-hub-continuation).
+## Как устанавливать?
 
-## Форматы архивов
+<details>
+<summary><b>Zapret-Hub</b></summary>
+<br/>
+
+1. Установите `Zapret-Hub-Continuation` из [github](https://github.com/klondike0x/zapret-hub-continuation).
+2. Скачайте архив нужного мода с `_hub` на конце из [релиза](https://github.com/peachoff/Zapret-Mods/releases) и добавьте его во вкладке `mods`.
+
+</details>
+
+<details>
+<summary><b>Zapret-Discord-Youtube</b></summary>
+<br/>
+  
+*Вариант 1*
+
+Воспользоватся портативной утилитой Zapret-Modifications-Patcher.
+
+*Вариант 2*
+
+1. Скачайте `zip` файл нужного мода без `_hub` из [релиза](https://github.com/peachoff/Zapret-Mods/releases).
+2. Открыть `zip` файл в архиваторе.
+3. Разархивировать файлы `.bat` в корневую папку `zapret`.
+4. Текст из файлов в папке `lists` перенести в файлы папки `lists` в корне `zapret`
+</details>
+
+### Форматы архивов
 В каждом релизе доступны два архива:
 
 | Архив | Для чего |
