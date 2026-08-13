@@ -15,7 +15,8 @@
 | Shizapret-Mod | Расширенный обход блокировок РКН [Подробнее](Shizapret-Mod/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Shizapret-Mod) |
 | GAMING Fix | Обход блокировок игр [Подробнее](Gaming-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Gaming-Fix) |
 | Canva | Обход блокировки Canva и Affinity [Подробнее](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
-| SoundCloud Fix | Расширенный обход блокировок РКН [Подробнее](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
+| SoundCloud Fix | Обход блокировки SoundCloud **#deprimo** [Подробнее](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
+| Linux Fix | Обход блокировок связаных с **LINUX** [Подробнее](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
 
 ## Как устанавливать?
 
