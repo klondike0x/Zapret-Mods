@@ -43,3 +43,5 @@ downloads.sourceforge.net
 gitlab.com
 pkgs.org
 distrowatch.com
+waydro.id
+ota.waydro.id
