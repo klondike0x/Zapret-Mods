@@ -52,3 +52,9 @@
 |-------|----------|
 | `Название.zip` | Для [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube). |
 | `Название_hub.zip` | Для [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation). |
+
+<div align="center">
+  
+---
+<img width="431" height="114" alt="pshkv" src="https://github.com/user-attachments/assets/28a5ce57-38fe-4e2f-9698-14789cc8c75e" />
+
