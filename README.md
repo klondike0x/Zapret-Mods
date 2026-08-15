@@ -17,6 +17,7 @@
 | Canva | Обход блокировки Canva и Affinity [Подробнее](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
 | SoundCloud Fix | Обход блокировки SoundCloud **#deprimo** [Подробнее](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
 | Linux Fix | Обход блокировок связаных с **LINUX** [Подробнее](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
+| Dungeons-And-Dragons | Обход блокировок связаных с **D&D** [Подробнее](Dungeons-And-Dragons/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dungeons-And-Dragons) |
 
 ## Как устанавливать?
 
