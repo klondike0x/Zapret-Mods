@@ -1,61 +1,72 @@
 <div align="center">
-  
-# Zapret-Mods
-Полезные модификации для [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation) и [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube) совместимые со всеми системами. 
+
+# 🛠️ Zapret-Mods
+
+Полезные модификации для **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** и **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)**, совместимые со всеми системами.
+
+[![Stars](https://img.shields.io/github/stars/peachoff/Zapret-Mods?style=for-the-badge&color=ffca28&logo=github)](https://github.com/peachoff/Zapret-Mods/stargazers)
+[![Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/peachoff/Zapret-Mods.json&style=for-the-badge&color=42a5f5&label=Views)](https://github.com/peachoff/Zapret-Mods)
+[![Latest Release](https://img.shields.io/github/v/release/peachoff/Zapret-Mods?style=for-the-badge&color=66bb6a&logo=github)](https://github.com/peachoff/Zapret-Mods/releases/latest)
+[![Issues](https://img.shields.io/github/issues/peachoff/Zapret-Mods?style=for-the-badge&color=ef5350&logo=github)](https://github.com/peachoff/Zapret-Mods/issues)
+
 
 </div>
 
-## Источники
+## 📦 Доступные Модификации
 
-Загрузить модификации вы можете на [Zapret Marketplace](https://goshkow.com/zapret-hub/marketplace/profiles/peachoff) или через GitHub в таблице ниже:
+Загрузить модификации вы можете из таблицы ниже или через релизы репозитория:
 
-| Название | Описание | Загрузить |
-|----------|----------|-----------|
-| Minecraft Fix | Обход блокировок Minecraft-сервисов и серверов [Подробнее](Minecraft-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Minecraft-Fix) |
-| Shizapret-Mod | Расширенный обход блокировок РКН [Подробнее](Shizapret-Mod/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Shizapret-Mod) |
-| GAMING Fix | Обход блокировок игр [Подробнее](Gaming-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Gaming-Fix) |
-| Canva | Обход блокировки Canva и Affinity [Подробнее](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
-| SoundCloud Fix | Обход блокировки SoundCloud **#deprimo** [Подробнее](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
-| Linux Fix | Обход блокировок связаных с **LINUX** [Подробнее](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
-| Dungeons-And-Dragons | Обход блокировок связаных с **D&D** [Подробнее](Dungeons-And-Dragons/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dungeons-And-Dragons) |
+| Модификация | Описание | Подробнее | Скачать |
+| :--- | :--- | :---: | :---: |
+| ⛏️ **Minecraft Fix** | Обход блокировок Minecraft-сервисов и серверов | [README](Minecraft-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Minecraft-Fix) |
+| ⚡ **Shizapret-Mod** | Расширенный обход блокировок РКН | [README](Shizapret-Mod/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Shizapret-Mod) |
+| 🎮 **GAMING Fix** | Обход блокировок игровых сервисов | [README](Gaming-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Gaming-Fix) |
+| 🎨 **Canva** | Обход блокировки Canva и Affinity | [README](Canva/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Canva) |
+| 🎧 **SoundCloud Fix** | Обход блокировки SoundCloud `#deprimo` | [README](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
+| 🐧 **Linux Fix** | Обход блокировок, связанных с Linux-сервисами | [README](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
+| 🎲 **Dungeons-And-Dragons** | Обход блокировок ресурсов D&D | [README](Dungeons-And-Dragons/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dungeons-And-Dragons) |
 
-## Как устанавливать?
+---
+
+## ⚙️ Инструкция по установке
 
 <details>
-<summary><b>Zapret-Hub</b></summary>
-<br/>
+<summary><b>🔹 Zapret-Hub</b> (Нажмите для раскрытия)</summary>
 
-1. Установите `Zapret-Hub-Continuation` из [github](https://github.com/klondike0x/zapret-hub-continuation).
-2. Скачайте архив нужного мода с `_hub` на конце из [релиза](https://github.com/peachoff/Zapret-Mods/releases) и добавьте его во вкладке `mods`.
+<br>
+
+1. Установите клиент [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation).
+2. Скачайте архив нужного мода с суффиксом `_hub` из [Релизов](https://github.com/peachoff/Zapret-Mods/releases).
+3. Перейдите во вкладку `mods` в интерфейсе программы и добавьте скачанный архив.
 
 </details>
 
 <details>
-<summary><b>Zapret-Discord-Youtube</b></summary>
-<br/>
-  
-*Вариант 1*
+<summary><b>🔹 Zapret-Discord-Youtube</b> (Нажмите для раскрытия)</summary>
 
-Воспользоватся портативной утилитой Zapret-Modifications-Patcher.
+<br>
 
-*Вариант 2*
+**Вариант 1 (Автоматический):**
+* Воспользуйтесь утилитой `Zapret-Modifications-Patcher`.
 
-1. Скачайте `zip` файл нужного мода без `_hub` из [релиза](https://github.com/peachoff/Zapret-Mods/releases).
-2. Открыть `zip` файл в архиваторе.
-3. Разархивировать файлы `.bat` в корневую папку `zapret`.
-4. Текст из файлов в папке `lists` перенести в файлы папки `lists` в корне `zapret`
+**Вариант 2 (Ручной):**
+1. Скачайте `.zip` архив нужного мода (без суффикса `_hub`) из [Релизов](https://github.com/peachoff/Zapret-Mods/releases).
+2. Разархивируйте `.bat` файлы в корневую папку `zapret`.
+3. Содержимое файлов из папки `lists` перенесите в соответствующие файлы в папке `lists` вашего клиента `zapret`.
+
 </details>
 
-### Форматы архивов
-В каждом релизе доступны два архива:
+### 📁 Форматы архивов в релизах
 
-| Архив | Для чего |
-|-------|----------|
-| `Название.zip` | Для [Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube). |
-| `Название_hub.zip` | Для [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation). |
+| Имя архива | Назначение |
+| :--- | :--- |
+| `Название.zip` | Совместимо с **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)** |
+| `Название_hub.zip` | Совместимо с **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** |
+
+---
 
 <div align="center">
-  
----
+
 <img width="431" height="114" alt="pshkv" src="https://github.com/user-attachments/assets/28a5ce57-38fe-4e2f-9698-14789cc8c75e" />
 
+</div>
