@@ -28,9 +28,12 @@ jobs:
               continue
             fi
             echo "Processing $mod_name"
-            (cd "$mod_name" && zip -r "../${mod_name}.zip" . -x "README.md" -x "zapret-hub-mod.json")
+            (cd "$mod_name" && zip -r "../${mod_name}.zip" . -x "README.md" -x "zapret-hub-mod.json" -x "mod.json")
             if [[ -f "$mod_name/zapret-hub-mod.json" ]]; then
               (cd "$mod_name" && zip -r "../${mod_name}_hub.zip" . -x "README.md")
+            fi
+            if [[ -f "$mod_name/mod.json" ]]; then
+              (cd "$mod_name" && zip -r "../${mod_name}_zen.zip" mod.json)
             fi
             if gh release view "$mod_name" >/dev/null 2>&1; then
               echo "Release $mod_name already exists, will update asset"
@@ -52,6 +55,9 @@ jobs:
             assets=("$mod_name.zip")
             if [[ -f "${mod_name}_hub.zip" ]]; then
               assets+=("${mod_name}_hub.zip")
+            fi
+            if [[ -f "${mod_name}_zen.zip" ]]; then
+              assets+=("${mod_name}_zen.zip")
             fi
             gh release upload "$mod_name" "${assets[@]}" --clobber
             rm "${assets[@]}"

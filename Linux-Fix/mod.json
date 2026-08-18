@@ -1,0 +1,11 @@
+{
+  "schema": "zapret-zen-mod-v1",
+  "id": "linux_hub-20260818130000",
+  "name": "Linux Fix",
+  "description": "Обход блокировок, связанных с Linux-сервисами",
+  "author": "peshk0v",
+  "version": "1.0.1",
+  "source_url": "https://github.com/peshk0v/Zapret-Mods",
+  "source_type": "zapret_bundle",
+  "emoji": "🐧"
+}

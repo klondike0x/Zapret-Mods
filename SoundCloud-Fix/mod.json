@@ -1,0 +1,11 @@
+{
+  "schema": "zapret-zen-mod-v1",
+  "id": "sc-fix_hub-20260818130000",
+  "name": "SoundCloud Fix",
+  "description": "Обход блокировки SoundCloud",
+  "author": "peshk0v",
+  "version": "1.1.0",
+  "source_url": "https://github.com/peshk0v/Zapret-Mods",
+  "source_type": "zapret_bundle",
+  "emoji": "🎵"
+}

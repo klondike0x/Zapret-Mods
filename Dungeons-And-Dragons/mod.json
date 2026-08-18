@@ -1,0 +1,11 @@
+{
+  "schema": "zapret-zen-mod-v1",
+  "id": "dungeons-and-dragons_hub-20260818130000",
+  "name": "Dungeons & Dragons",
+  "description": "Обход блокировок ресурсов D&D",
+  "author": "peshk0v",
+  "version": "1.0.0",
+  "source_url": "https://github.com/peshk0v/Zapret-Mods",
+  "source_type": "zapret_bundle",
+  "emoji": "🐉"
+}

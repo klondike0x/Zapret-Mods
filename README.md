@@ -2,7 +2,7 @@
 
 # 🛠️ Zapret-Mods
 
-Полезные модификации для **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** и **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)**, совместимые со всеми системами.
+Полезные модификации для **[Zapret-Zen](https://github.com/peshk0v/Zapret-Zen)**, **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** и **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)**, совместимые со всеми системами.
 
 [![Stars](https://img.shields.io/github/stars/peachoff/Zapret-Mods?style=for-the-badge&color=ffca28&logo=github)](https://github.com/peachoff/Zapret-Mods/stargazers)
 [![Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/peachoff/Zapret-Mods.json&style=for-the-badge&color=42a5f5&label=Views)](https://github.com/peachoff/Zapret-Mods)
@@ -31,13 +31,13 @@
 ## ⚙️ Инструкция по установке
 
 <details>
-<summary><b>🔹 Zapret-Hub</b> (Нажмите для раскрытия)</summary>
+<summary><b>🔹 Zapret-Zen & Hub</b> (Нажмите для раскрытия)</summary>
 
 <br>
 
-1. Установите клиент [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation).
-2. Скачайте архив нужного мода с суффиксом `_hub` из [Релизов](https://github.com/peachoff/Zapret-Mods/releases).
-3. Перейдите во вкладку `mods` в интерфейсе программы и добавьте скачанный архив.
+1. Установите клиент [Zapret-Zen](https://github.com/peshk0v/Zapret-Zen) или [Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation).
+2. Скачайте архив нужного мода с суффиксом `_zen` или `_hub` (в зависимости от клиента) из [Релизов](https://github.com/peachoff/Zapret-Mods/releases).
+3. Перейдите во вкладку `Модификации` в интерфейсе программы и добавьте скачанный архив.
 
 </details>
 
@@ -47,7 +47,7 @@
 <br>
 
 **Вариант 1 (Автоматический):**
-* Воспользуйтесь утилитой `Zapret-Modifications-Patcher`.
+* Воспользуйтесь утилитой [Zapret-Modifications-Patcher](https://github.com/peshk0v/Zapret-Mods-Patcher).
 
 **Вариант 2 (Ручной):**
 1. Скачайте `.zip` архив нужного мода (без суффикса `_hub`) из [Релизов](https://github.com/peachoff/Zapret-Mods/releases).
@@ -62,6 +62,7 @@
 | :--- | :--- |
 | `Название.zip` | Совместимо с **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)** |
 | `Название_hub.zip` | Совместимо с **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** |
+| `Название_zen.zip` | Совместимо с **[Zapret-Zen](https://github.com/topics/zapret-zen)** |
 
 ---
 
