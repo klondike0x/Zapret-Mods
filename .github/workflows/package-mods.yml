@@ -33,7 +33,7 @@ jobs:
               (cd "$mod_name" && zip -r "../${mod_name}_hub.zip" . -x "README.md")
             fi
             if [[ -f "$mod_name/mod.json" ]]; then
-              (cd "$mod_name" && zip -r "../${mod_name}_zen.zip" mod.json)
+              (cd "$mod_name" && zip -r "../${mod_name}_zen.zip" . -x "README.md" -x "zapret-hub-mod.json")
             fi
             if gh release view "$mod_name" >/dev/null 2>&1; then
               echo "Release $mod_name already exists, will update asset"
