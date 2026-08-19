@@ -74,3 +74,5 @@ maven.quiltmc.org
 meta.quiltmc.org
 forgecdn.net
 build.lwjgl.org
+essential.gg
+imagedelivery.net

@@ -1,12 +1,13 @@
 # Minecraft Fix
 
-Модификация для [Zapret Hub](https://github.com/bol-van/zapret), позволяющая обходить блокировки сервисов и игровых серверов, связанных с Minecraft.
+Модификация, позволяющая обходить блокировки сервисов и игровых серверов, связанных с Minecraft.
 
 ## Что исправляет
 
 - Доступ к серверам Minecraft Java и Bedrock Edition
 - Доступ к платформам Modrinth, CurseForge, Forge, NeoForged, PrismLauncher и другим Minecraft-связанным ресурсам
 - Поддержка Game Filter для дополнительных игровых портов
+- Работу модов Essential и e4mc (автор фикса [kinlay0](https://github.com/kinlay0), взято из [discussions](https://github.com/Flowseal/zapret-discord-youtube/discussions/5585))
 
 ## Варианты запуска
 
