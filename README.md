@@ -4,10 +4,10 @@
 
 Полезные модификации для **[Zapret-Zen](https://github.com/peshk0v/Zapret-Zen)**, **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** и **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)**, совместимые со всеми системами.
 
-[![Stars](https://img.shields.io/github/stars/peachoff/Zapret-Mods?style=for-the-badge&color=ffca28&logo=github)](https://github.com/peachoff/Zapret-Mods/stargazers)
-[![Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/peachoff/Zapret-Mods.json&style=for-the-badge&color=42a5f5&label=Views)](https://github.com/peachoff/Zapret-Mods)
-[![Latest Release](https://img.shields.io/github/v/release/peachoff/Zapret-Mods?style=for-the-badge&color=66bb6a&logo=github)](https://github.com/peachoff/Zapret-Mods/releases/latest)
-[![Issues](https://img.shields.io/github/issues/peachoff/Zapret-Mods?style=for-the-badge&color=ef5350&logo=github)](https://github.com/peachoff/Zapret-Mods/issues)
+[![Stars](https://img.shields.io/github/stars/peshk0v/Zapret-Mods?style=for-the-badge&color=ffca28&logo=github)](https://github.com/peshk0v/Zapret-Mods/stargazers)
+[![Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/peshk0v/Zapret-Mods.json&style=for-the-badge&color=42a5f5&label=Views)](https://github.com/peshk0v/Zapret-Mods)
+[![Latest Release](https://img.shields.io/github/v/release/peshk0v/Zapret-Mods?style=for-the-badge&color=66bb6a&logo=github)](https://github.com/peshk0v/Zapret-Mods/releases/latest)
+[![Issues](https://img.shields.io/github/issues/peshk0v/Zapret-Mods?style=for-the-badge&color=ef5350&logo=github)](https://github.com/peshk0v/Zapret-Mods/issues)
 
 
 </div>
