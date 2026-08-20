@@ -7,7 +7,6 @@
 [![Stars](https://img.shields.io/github/stars/peshk0v/Zapret-Mods?style=for-the-badge&color=ffca28&logo=github)](https://github.com/peshk0v/Zapret-Mods/stargazers)
 [![Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/peshk0v/Zapret-Mods.json&style=for-the-badge&color=42a5f5&label=Views)](https://github.com/peshk0v/Zapret-Mods)
 [![Latest Release](https://img.shields.io/github/v/release/peshk0v/Zapret-Mods?style=for-the-badge&color=66bb6a&logo=github)](https://github.com/peshk0v/Zapret-Mods/releases/latest)
-[![Issues](https://img.shields.io/github/issues/peshk0v/Zapret-Mods?style=for-the-badge&color=ef5350&logo=github)](https://github.com/peshk0v/Zapret-Mods/issues)
 
 
 </div>
