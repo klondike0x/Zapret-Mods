@@ -47,7 +47,7 @@
 <br>
 
 **Вариант 1 (Автоматический):**
-* Воспользуйтесь утилитой [Zapret-Modifications-Patcher](https://github.com/peshk0v/Zapret-Mods-Patcher).
+* Воспользуйтесь утилитой [Zapret-Modifications-Patcher](https://github.com/peshk0v/Zapret-Mods-Patcher#%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B0%D1%8F-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B0).
 
 **Вариант 2 (Ручной):**
 1. Скачайте `.zip` архив нужного мода (без суффикса `_hub`) из [Релизов](https://github.com/peachoff/Zapret-Mods/releases).
