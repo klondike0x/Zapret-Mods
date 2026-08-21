@@ -2,7 +2,7 @@
 
 # 🛠️ Zapret-Mods
 
-Полезные модификации для **[Zapret-Zen](https://github.com/peshk0v/Zapret-Zen)**, **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** и **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)**, совместимые со всеми системами.
+Полезные модификации для **[FluxRoute](https://github.com/klondike0x/FluxRoute)**, **[Zapret-Zen](https://github.com/peshk0v/Zapret-Zen)**, **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** и **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)**, совместимые со всеми системами.
 
 [![Stars](https://img.shields.io/github/stars/peshk0v/Zapret-Mods?style=for-the-badge&color=ffca28&logo=github)](https://github.com/peshk0v/Zapret-Mods/stargazers)
 [![Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/peshk0v/Zapret-Mods.json&style=for-the-badge&color=42a5f5&label=Views)](https://github.com/peshk0v/Zapret-Mods)
@@ -28,6 +28,18 @@
 ---
 
 ## ⚙️ Инструкция по установке
+
+<details>
+<summary><b>🔹 FluxRoute</b> (Нажмите для раскрытия)</summary>
+
+<br>
+
+1. Установите [FluxRoute](https://github.com/klondike0x/FluxRoute).
+2. Откройте вкладку `Моды` и нажмите `⟳ GitHub`.
+3. Укажите репозиторий [Zapret-Mods](https://github.com/peshk0v/Zapret-Mods).
+4. После синхронизации выберите нужную модификацию и включите её.
+
+</details>
 
 <details>
 <summary><b>🔹 Zapret-Zen & Hub</b> (Нажмите для раскрытия)</summary>
@@ -61,6 +73,7 @@
 | :--- | :--- |
 | `Название.zip` | Совместимо с **[Zapret-Discord-Youtube](https://github.com/Flowseal/zapret-discord-youtube)** |
 | `Название_hub.zip` | Совместимо с **[Zapret-Hub-Continuation](https://github.com/klondike0x/zapret-hub-continuation)** |
+| `Название_flux.zip` | Совместимо с **[FluxRoute](https://github.com/klondike0x/FluxRoute)** |
 | `Название_zen.zip` | Совместимо с **[Zapret-Zen](https://github.com/topics/zapret-zen)** |
 
 ---
