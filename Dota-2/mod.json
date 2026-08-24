@@ -1,0 +1,11 @@
+{
+  "schema": "zapret-zen-mod-v1",
+  "id": "dota-2",
+  "name": "Dota 2",
+  "description": "Обход блокировки Dota 2 в России.",
+  "author": "peshk0v",
+  "version": "1.0.0",
+  "source_url": "https://github.com/peshk0v/Zapret-Mods",
+  "source_type": "zapret_bundle",
+  "emoji": "🎵"
+}
