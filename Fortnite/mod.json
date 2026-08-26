@@ -1,0 +1,17 @@
+{
+  "schema": "zapret-zen-mod-v1",
+  "id": "fortnite",
+  "name": "Fortnite",
+  "description": "Обход блокировок Fortnite, Epic Games Store, лаунчера и сервисов Epic",
+  "author": "goshkow",
+  "version": "1.0.0",
+  "source_url": "https://github.com/peshk0v/Zapret-Mods",
+  "source_type": "zapret_bundle",
+  "emoji": "🎮",
+  "isolated_profile": true,
+  "settings": {
+    "ipset_mode": "any",
+    "game_mode": "tcpudp"
+  },
+  "welcome": "# Fortnite Mod\n\nДля работы мода создан изолированный профиль **Fortnite**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
+}
