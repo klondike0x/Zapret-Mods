@@ -24,7 +24,8 @@
 | 🎧 **SoundCloud Fix** | Обход блокировки SoundCloud `#deprimo` | [README](SoundCloud-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/SoundCloud-Fix) |
 | 🐧 **Linux Fix** | Обход блокировок, связанных с Linux-сервисами | [README](Linux-Fix/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Linux-Fix) |
 | 🎲 **Dungeons-And-Dragons** | Обход блокировок ресурсов D&D | [README](Dungeons-And-Dragons/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dungeons-And-Dragons) |
-| 🎲 **Dota 2** | Обход блокировки Dota 2 в России | [README](Dota-2/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dota-2) |
+| 🩻 **Dota 2** | Обход блокировки Dota 2 в России | [README](Dota-2/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Dota-2) |
+| 🔫 **Fortnite** | Обход блокировки Fortnite и Epic Games Store | [README](Fortnite/README.md) | [Release](https://github.com/peachoff/Zapret-Hub-Mods/releases/tag/Fortnite) |
 
 ---
 
