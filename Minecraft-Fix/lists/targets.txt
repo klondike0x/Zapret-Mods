@@ -1,0 +1,5 @@
+minecraft.net
+hypixel.net
+modrinth.com
+api.modrinth.com
+curseforge.com

@@ -1,0 +1,5 @@
+store.steampowered.com
+api.steampowered.com
+help.steampowered.com
+cloudflare.com
+discord.com
