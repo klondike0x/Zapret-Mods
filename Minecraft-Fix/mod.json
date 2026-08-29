@@ -5,6 +5,7 @@
   "description": "Обход блокировок Minecraft-сервисов и серверов",
   "author": "peshk0v",
   "version": "2.1.0",
+  "category": "gaming",
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
   "emoji": "🌍",

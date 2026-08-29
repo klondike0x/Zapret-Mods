@@ -1,10 +1,11 @@
 {
   "schema": "zapret-zen-mod-v1",
   "id": "ea_fix_hub-20260818130000",
-  "name": "GAMING Fix",
+  "name": "Multiplayer and EA",
   "description": "Обход блокировок игровых сервисов",
   "author": "peshk0v",
   "version": "1.2.1",
+  "category": "gaming",
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
   "emoji": "🎮",
@@ -13,5 +14,5 @@
     "ipset_mode": "any",
     "game_mode": "tcpudp"
   },
-  "welcome": "# GAMING Fix\n\nДля работы мода создан изолированный профиль **GAMING Fix**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
+  "welcome": "# Multiplayer and EA Fix\n\nДля работы мода создан изолированный профиль **Multiplayer and EA Fix**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
 }

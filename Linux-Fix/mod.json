@@ -5,6 +5,7 @@
   "description": "Обход блокировок, связанных с Linux-сервисами",
   "author": "peshk0v",
   "version": "1.0.1",
+  "category": "workplace",
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
   "emoji": "🐧",

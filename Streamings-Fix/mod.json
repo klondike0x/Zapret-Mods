@@ -1,12 +1,13 @@
 {
   "schema": "zapret-zen-mod-v1",
   "id": "sc-fix_hub-20260818130000",
-  "name": "Streamings Fix",
+  "name": "Spotify & SoundCloud",
   "description": "Обход блокировки SoundCloud и Spotify",
   "author": "peshk0v",
   "version": "1.2.0",
+  "category": "socials",
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
   "emoji": "🎵",
-  "welcome": "# Streamings Fix\n\nДля работы мода создан изолированный профиль **Streamings Fix**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
+  "welcome": "# Spotify & SoundCloud\n\nДля работы мода создан изолированный профиль **Spotify & SoundCloud**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
 }

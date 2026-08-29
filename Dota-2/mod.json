@@ -5,6 +5,7 @@
   "description": "Обход блокировки Dota 2 в России.",
   "author": "peshk0v",
   "version": "1.0.0",
+  "category": "gaming",
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
   "emoji": "🎵",
