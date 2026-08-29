@@ -9,10 +9,8 @@
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
   "emoji": "🎨",
-  "isolated_profile": true,
   "settings": {
     "ipset_mode": "none",
     "game_mode": "disabled"
-  },
-  "welcome": "# Canva Fix\n\nДля работы мода создан изолированный профиль **Canva Fix**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
+  }
 }

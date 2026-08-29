@@ -8,6 +8,5 @@
   "category": "socials",
   "source_url": "https://github.com/peshk0v/Zapret-Mods",
   "source_type": "zapret_bundle",
-  "emoji": "🎵",
-  "welcome": "# Spotify & SoundCloud\n\nДля работы мода создан изолированный профиль **Spotify & SoundCloud**.\n\nПри первом входе в профиль автоматически будет запущена проверка стратегий.\nВыберите профиль в списке профилей на главной странице."
+  "emoji": "🎵"
 }
